@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "universalarmor:universal_helmet",
+    "universalarmor:universal_chestplate",
+    "universalarmor:universal_leggings",
+    "universalarmor:universal_boots"
+  ]
+}

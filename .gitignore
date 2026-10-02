@@ -1,0 +1,20 @@
+build/
+.gradle/
+.idea/
+.vscode/
+.settings/
+out/
+runs/
+run*/
+*.iml
+*.log
+*.tmp
+gradle/
+gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.properties
+.settings/
+
+# Mod-specific
+*.jar
+
+__pycache__/

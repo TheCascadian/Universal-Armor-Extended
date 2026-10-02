@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "minecraft:book" },
+    { "item": "minecraft:iron_ingot" }
+  ],
+  "result": {
+    "id": "universalarmor:armory_guide",
+    "count": 1
+  }
+}

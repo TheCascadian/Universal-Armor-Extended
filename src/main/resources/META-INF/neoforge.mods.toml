@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+
+[[mods]]
+modId="universalarmor"
+version="${mod_version}"
+logoFile="logo.png"
+displayName="Universal Armor Extended"
+authors="TheCascadian"
+description='''
+Craft armor dynamically out of absolutely anything in the game! Full cross-mod compatibility with no custom registry bloat.
+'''
+
+[[dependencies.universalarmor]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.1,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.universalarmor]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.1,1.22)"
+    ordering="NONE"
+    side="BOTH"
